@@ -1,3 +1,7 @@
 - HTTP singkatan dari Hypertext transfer protocol
 - HTTP adalah sebuah protocol untuk mengirim datadari client ke server
 - HTTP memiliki arsitektur client server
+- Client mengirim HTTP Request -> Server mengembalikan HTTP Response
+- HTTP bersifat statless
+- statless adalah request HTTP sebelumnya tidak mempengaruhi request HTTP selanjutnya
+- jika ingin request HTTP selanjutnya memperoleh data dari request HTTP sebelumnya maka bisa menggunakan HTTP Cookie untuk session
