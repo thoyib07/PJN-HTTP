@@ -1,0 +1,9 @@
+- Web Browser adalah aplikasi untuk mengakses website menggunakan HTTP
+- TCP (Transfer Control Protocol) salah satu protocol dalam jarngan komputer yang biasa digunakan untuk web, email, FTP dll
+- Jika menggunakan internet maka kita menggunakan TCP untuk mengakses jaringan internet
+- IP (Internet Protocol) digunakan untuk identifikasi komputer pada jaringan
+- URL (Uniform Resource Location) merupakan alamat untuk resource di website
+- DNS (DOmain Name Server) merupakan tempat yang berisikan katalok pemetaan URL menuju lokasi IP komputer
+- alur kerjanya saat kita mengakses URL di web browser akan mengirim kan data ke DNS, lalu DNS akan memberikan IP komputer yang dituju
+- Web server adalah aplikasi yang berajalan di internet yang bertugas sebagai server
+- Web server berisi informasi yang akan diakses oleh client
