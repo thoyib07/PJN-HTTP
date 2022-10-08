@@ -1,0 +1,11 @@
+- saat ini HTTP sudah masuk ke versi 2.0
+- HTTP 2.0 muncul sekitar tahun 2015, sebelum itu HTTP 1.0
+- saat ini 70% web berjalan di HTTP 2.0, sisanya di HTTP 1.1
+- HTTP 1.1 merupakan fallback protocol, dimana jika web browser melakukan request menggunakan HTTP 2.0 namun jika web server tidak mendukung maka web browser akan melakukan fall back ke protocol HTTP 1.1
+- HTTP 2.0 mengirim secara binary, HTTP 1.1 mengirim secara text. sehingga HTTP 2.0 lebih cepat dibandingkan HTTP 1.1
+- HTTP 2.0 menggunakan kompresi, jaid data yang dikirim jadi lebih kecil. sehinggak HTTP 2.0 lebih cepat
+- HTTP 2.0 mendukung multiplexing, sehingga bisa mengirim beberapa request dalam 1 koneksi yang sama
+- secara default HTTP itu tidak aman
+- HTTPS merupakan HTTP dengan enkripsi
+- HTTPS menggunakan SSL (Secure Sockets Layer) untuk melakukan enkripsi HTTP
+- jika menggunakan HTTPS url nya akan menjadi https://
