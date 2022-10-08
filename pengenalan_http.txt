@@ -1,0 +1,3 @@
+- HTTP singkatan dari Hypertext transfer protocol
+- HTTP adalah sebuah protocol untuk mengirim datadari client ke server
+- HTTP memiliki arsitektur client server
