@@ -1,0 +1,11 @@
+- HTTP Methode mirip seperti kategori Request
+- HTTP Methode terdiri dari GET, HEAD, POST, PUT, PATCH, DELETE, OPTION & TRACE
+- GET digunakan untuk merequest data, GET hanya untuk menerima data, bukan untuk mengirim data
+- HEAD digunakan untuk merequest data tapi tanpa membutuhkan Response body
+- POST digunakan untuk mengirim data, biasanya POST digunakan untuk mengirim data baru sehingga biasanya memiliki Request Body
+- PUT digunakan untuk mengubah/mengganti seluruh data yang ada di Server
+- PATCH digunakn untuk mengubah/mengganti sebagian data
+- DELETE digunakan untuk menghapus data
+- OPTION digunakan untuk mengetahu terdapat Request Methode apa saja yang ada di Server
+- TRACE digunakan untuk melakukan debuging Response, TRACE mengembalikan seluruh HTTP Request client
+- Saat membuat web sangan disarankan untuk menonaktifkan methode TRACE ketika sudah live ke production
