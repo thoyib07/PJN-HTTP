@@ -1,0 +1,7 @@
+- HTTP Request & HTTP Response bisa disebut juga dengan HTTP Message
+- HTTP Message memiliki standar format
+- Pada HTTP Message ada 2 komponen yaitu header & body
+- Header menyimpan informasi dari HTTP Request & HTTP Response
+- Header biasanya menyimpan informasi methode, host, content-type, user agent dan lain-lainnya
+- Body menyimpan data dari HTTP Request & HTTP Response
+- Body biasanya menimpan data dengan standar format
