@@ -1,0 +1,4 @@
+- Flow HTTP berupa Request client ke server, lalu server melakukan Response dari Request client
+- HTTP Request berisikan data atau informasi yang dikirimkan dari client ke server untuk diproses oleh server
+- HTTP Response berisikan data atau informasi yang diminta oleh client dalam HTTP Request
+- Proses yang dilakukan oleh server bisa membaca data dari DB atau menuliskan data ke DBs
