@@ -1,0 +1,18 @@
+- URL singkatan dari Uniform Resource Location
+- URL merupakan alamat dari resource di web
+- Tanpa URL client & server tidak mengerti informasi apa yang ingin di cari
+- URL memiliki anatomi yang membentuk sebuah URL utuh
+- Schema merupakan bagian awal dari URL, berisi informasi protocol yang digunakan & dipisahkan dengan bagian lainnya oleh tanda :// ex. http & https
+- Authority terdisi dari domain name & nomer port
+- Nama domain akan ditanyakan ke DNS untuk mendapatkan IP nya
+- Nomer port tidak wajib
+- Secara default nomer port akan terisi 80 untuk http & 443 untuk https
+- Path berisi informasi menuju ke resource yang kita tuju
+- Path tidak wajib
+- Parameters berisi informasi tambahan yang berisi key=value
+- Parameters tidak wajib
+- Parameters dipisah oleh tanda ? setelah Authority atau Path
+- Jika kita ingin menambahkan lebih dari 1 Parameters makan bisa menggunakan karakter '&' untuk pemisah antar parameter
+- Anchor merepresentasikan bookmark pada halaman web
+- Anchor tidak wajib
+- Anchor dipisah oleh tanda # setelah Authority, Path atau Parameters
