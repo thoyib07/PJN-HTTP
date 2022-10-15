@@ -1,0 +1,3 @@
+- Browser Network Tool adalah sebuah fitur di web browser yang dapat membantu kita melihat HTTP Request & HTTP Response yang dilakukan oleh sebuah website
+- Browser Network Tool ada di beberapa browser seperti Chrome & Firefox
+- Pada Browser Network Tool kita dapat memfilter HTTP Response berdasarkan jenisnya
